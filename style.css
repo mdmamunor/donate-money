@@ -1,0 +1,73 @@
+.header {
+
+    background-image: url(images/donation13.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 1000px;
+
+}
+
+.centered-text {
+    color: white;
+
+    font-size: 55px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.h3tag {
+    color: white;
+    position: absolute;
+    bottom: 150px;
+    left: 25%;
+}
+
+.link {
+    position: absolute;
+    bottom: 100px;
+    left: 40%;
+}
+
+.btn {
+    font-size: 22px;
+    background-color: #ff7c02f1;
+    width: 152px;
+    height: 44px;
+    border-radius: 8px;
+}
+
+.donate-today {
+    font-size: 44px;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+
+#amount {
+    font-size: 60px;
+    display: flex;
+    padding: 230px;
+}
+
+.first {
+    font-weight: 600;
+    padding-right: 40px;
+}
+
+.second {
+    color: orange;
+    border: 2px solid orangered;
+}
+
+.input {
+    width: 300px;
+    height: 50px;
+}
+
+.button2 {
+    margin-left: 50%;
+}
