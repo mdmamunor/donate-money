@@ -85,14 +85,26 @@
 }
 
 .image {
-    height: 22%;
-    width: 16%;
+    height: auto;
+    width: auto;
+}
+
+.solve {
+    height: 250px;
 }
 
 .blogs {
     display: flex;
-    text-shadow: blueviolet;
-    width: 50%;
+    margin-top: 0px;
+
+}
+
+.blogs>div {
+    background-color: #E6E6E6;
+    border-radius: 10px;
+    margin: 70px;
+    padding: 20px;
+    font-size: 22px;
 }
 
 .blogs img {
