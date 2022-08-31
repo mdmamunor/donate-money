@@ -140,3 +140,15 @@ section {
     background-color: blueviolet;
     font-size: 15px;
 }
+
+#humble {
+    color: orange;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+.footer {
+    height: 222px;
+    width: 100pc;
+    background-color: rgb(41, 41, 53);
+}
