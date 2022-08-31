@@ -40,6 +40,7 @@
 
 .donate-today {
     font-size: 44px;
+    font-weight: 700;
     font-family: 'Poppins', sans-serif;
     text-align: center;
 }
@@ -84,11 +85,58 @@
 }
 
 .image {
-    height: 15%;
+    height: 22%;
     width: 16%;
 }
 
 .blogs {
     display: flex;
-    text-shadow: blueviolet
+    text-shadow: blueviolet;
+    width: 50%;
+}
+
+.blogs img {
+    width: 100%;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.font-size {
+    font-size: 54px;
+}
+
+.paragraph {
+    font-size: 25px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 15px 40px;
+    font-weight: 700;
+    border-radius: 5%;
+}
+
+.subscribe {
+
+    padding: 20px 40px;
+    margin-left: 505px;
+    margin-right: 500px;
+    border: 80px solid orange;
+}
+
+.label {
+    background-color: blueviolet;
+    font-size: 15px;
 }
