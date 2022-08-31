@@ -26,7 +26,7 @@
 
 .link {
     position: absolute;
-    bottom: 100px;
+    bottom: 80px;
     left: 40%;
 }
 
@@ -40,6 +40,7 @@
 
 .donate-today {
     font-size: 44px;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
 }
 
@@ -70,4 +71,24 @@
 
 .button2 {
     margin-left: 50%;
+}
+
+.donate-class {
+    margin-top: 70px;
+}
+
+.donate-plan {
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.image {
+    height: 15%;
+    width: 16%;
+}
+
+.blogs {
+    display: flex;
+    text-shadow: blueviolet
 }
